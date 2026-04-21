@@ -1,3 +1,4 @@
 # Banking Transaction System
 
-This project is a backend system designed to simulate and process financial transactions in real time, focusing on consistency, reliability, and scalability in a banking-like environment.
+This project is a backend application developed in C# (.NET) simulating a financial transaction processing system.
+It focuses on reliability, data consistency, and scalable architecture in a banking environment.
